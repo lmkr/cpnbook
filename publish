@@ -1,0 +1,18 @@
+#!/bin/bash
+cp /users/kris/Projects/CPNBook/bookweb/*.html /web/cpnbook/public_html/.
+cp /users/kris/Projects/CPNBook/bookweb/*.css /web/cpnbook/public_html/.
+cp /users/kris/Projects/CPNBook/bookweb/*.jpg /web/cpnbook/public_html/.
+cp /users/kris/Projects/CPNBook/bookweb/*.pdf /web/cpnbook/public_html/.
+cp /users/kris/Projects/CPNBook/bookweb/projects/*.html /web/cpnbook/public_html/projects/.
+cp --preserve=timestamps /users/kris/Projects/CPNBook/bookweb/models/chapter2/*.cpn /web/cpnbook/public_html/models/chapter2/.
+cp --preserve=timestamps /users/kris/Projects/CPNBook/bookweb/models/chapter3/*.cpn /web/cpnbook/public_html/models/chapter3/.
+cp --preserve=timestamps /users/kris/Projects/CPNBook/bookweb/models/chapter5/*.cpn /web/cpnbook/public_html/models/chapter5/.
+cp --preserve=timestamps /users/kris/Projects/CPNBook/bookweb/models/chapter7/*.cpn /web/cpnbook/public_html/models/chapter7/.
+cp --preserve=timestamps /users/kris/Projects/CPNBook/bookweb/models/chapter10/*.cpn /web/cpnbook/public_html/models/chapter10/.
+cp --preserve=timestamps /users/kris/Projects/CPNBook/bookweb/models/chapter12/*.cpn /web/cpnbook/public_html/models/chapter12/.
+cp --preserve=timestamps /users/kris/Projects/CPNBook/bookweb/slides/CPN*.ppt /web/cpnbook/public_html/slides/.
+cd /web/cpnbook/public_html/models
+zip cpnbookmodels.zip chapter*/*.cpn
+cd
+cd /web/cpnbook/public_html/slides
+zip cpnbookslides.zip *.ppt
