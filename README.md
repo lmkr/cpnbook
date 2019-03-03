@@ -4,13 +4,13 @@
 
 ![](assets/markdown-img-paste-20190303112648815.png)
 
+Springer, July 2009 - available via: <a href="http://www.springer.com/computer/foundations/book/978-3-642-00283-0">Springer</a> <a href="http://www.amazon.co.uk/Coloured-Petri-Nets-Kurt-Jensen/dp/3642002838/ref=sr_1_1?ie=UTF8&s=books&qid=1242997339&sr=8-1">amazon.co.uk</a> <a href="http://www.amazon.com/Coloured-Petri-Nets-Validation-Concurrent/dp/3642002838/ref=sr_1_2?ie=UTF8&s=books&qid=1242997480&sr=1-2">amazon.com</a><br>
 
 <a href = "http://pure.au.dk/portal/en/persons/kurt-jensen(40695a62-b356-4d94-b437-4db0be203bdc).html">Kurt Jensen</a> | [Lars Michael Kristensen](http://lmkr.org)
   -------------------|-----------------------
   Department of Computer Science | Department of Computing
   Aarhus University, Denmark | Western Norway University of Applied Sciences
-Springer, July 2009<br>
-Available via: <a href="http://www.springer.com/computer/foundations/book/978-3-642-00283-0">Springer</a> <a href="http://www.amazon.co.uk/Coloured-Petri-Nets-Kurt-Jensen/dp/3642002838/ref=sr_1_1?ie=UTF8&s=books&qid=1242997339&sr=8-1">amazon.co.uk</a> <a href="http://www.amazon.com/Coloured-Petri-Nets-Validation-Concurrent/dp/3642002838/ref=sr_1_2?ie=UTF8&s=books&qid=1242997480&sr=1-2">amazon.com</a><br>
+
 
 
 ### Introduction
