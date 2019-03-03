@@ -27,20 +27,20 @@ selected industrial case studies illustrating the use of CPN modelling
 and validation for design, specification, simulation, and verification
 in a variety of application domains.
 
-### Resources
+### Book resources
 
 This website contains supplementary material for the textbook, including slides sets, CPN
-models, and suggestions for exercises and projects.
+models, and suggestions for smaller projects.
 
-- [Selected chapters](chapters/) of the book are available for free
-  - [Preface](chapters/preface.pdf)
-  - [Table of Content](chapters/content.pdf)
-  - Chapter 1: [Introduction](chapters/chapter1.pdf)
-  - Chapter 2: [Non-hierarchical CPNs](chapters/chapter2.pdf)
-  - Chapter 15: [Teaching CPNs](chapters/chapter15.pdf)
-
-- [CPN models](models/) for the individual chapters
-- [Slides](slides/) for the individual chapters
+* [Selected chapters](chapters/) of the book are available for free
+  * [Preface](chapters/preface.pdf)
+  * [Table of Content](chapters/content.pdf)
+  * Chapter 1: [Introduction](chapters/chapter1.pdf)
+  * Chapter 2: [Non-hierarchical CPNs](chapters/chapter2.pdf)
+  * Chapter 15: [Teaching CPNs](chapters/chapter15.pdf)
+* [CPN models](models/) for the individual chapters
+* [Slides](slides/) for the individual chapters
+* [Projects](projects/) putting CPNs into practical use
 
 ### Software tool support
 
