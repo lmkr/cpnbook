@@ -1,6 +1,6 @@
 ## Project 0: Getting started with CPN and CPN Tools
 
-This project consists of a set of small exercises to become familiar with CPN models and CPN Tools. The figure number below refers to the figure numbers in the CPN book.
+This project consists of a set of small exercises to become familiar with CPN models and CPN Tools. The figure numbers below refers to the figure numbers in the CPN book.
 
 The documentation for using CPN Tools can be found here: http://cpntools.org/2018/01/16/documentation-2/
 
