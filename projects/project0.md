@@ -20,7 +20,7 @@ Modify the CPN model such that the counter on `NextSend` will never be decreased
 
 Consider the <a href="../models/chapter2/2-10NondeterministicProtocol.cpn">simple protocol</a> in Fig. 2.10. The CPN model specifies no upper bound on the number of times that a data packet can be transmitted.
 
-Modify the CPN model such there is a bound on the number of times that a packet can be retransmitted. Hint: augment the colour set (type) of the place `NextSend` such that the token on `NextSend` is a tuple (pair) specifying the sequence number of the data packet currently being sent, and use a *guard-expression* on the `SendPacket` to enforce the upper bound on the number of retransmissions.  
+Modify the CPN model such there is a bound on the number of times that a packet can be retransmitted. Hint: augment the colour set (type) of the place `NextSend` such that the token on `NextSend` is a tuple (pair) specifying the sequence number of the data packet currently being sent, and use a [guard-expression](http://cpntools.org/2018/01/09/guards/) on the `SendPacket` to enforce the upper bound on the number of retransmissions.  
 
 Use simulation to validate the modified model.
 
