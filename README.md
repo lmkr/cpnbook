@@ -4,7 +4,9 @@
 
 ![](assets/markdown-img-paste-20190303112648815.png)
 
-Springer, July 2009 - available via: <a href="http://www.springer.com/computer/foundations/book/978-3-642-00283-0">Springer</a> <a href="http://www.amazon.co.uk/Coloured-Petri-Nets-Kurt-Jensen/dp/3642002838/ref=sr_1_1?ie=UTF8&s=books&qid=1242997339&sr=8-1">amazon.co.uk</a> <a href="http://www.amazon.com/Coloured-Petri-Nets-Validation-Concurrent/dp/3642002838/ref=sr_1_2?ie=UTF8&s=books&qid=1242997480&sr=1-2">amazon.com</a><br>
+Springer, July 2009 
+
+Available via: <a href="http://www.springer.com/computer/foundations/book/978-3-642-00283-0">Springer</a> <a href="http://www.amazon.co.uk/Coloured-Petri-Nets-Kurt-Jensen/dp/3642002838/ref=sr_1_1?ie=UTF8&s=books&qid=1242997339&sr=8-1">amazon.co.uk</a> <a href="http://www.amazon.com/Coloured-Petri-Nets-Validation-Concurrent/dp/3642002838/ref=sr_1_2?ie=UTF8&s=books&qid=1242997480&sr=1-2">amazon.com</a><br>
 
 ### Authors
 
@@ -43,6 +45,10 @@ models, and suggestions for smaller projects.
 * [CPN models](models/) for the individual chapters
 * [Slides](slides/) for the individual chapters
 * [Projects](projects/) putting CPNs into practical use
+
+### CPN Course
+
+Material for the course on Coloured Petri Nets developed for the Petri Nets Course of the annual Petri Nets conferences are available from here: https://github.com/lmkr/cpncourse/blob/master/README.md
 
 ### Software tool support
 
